@@ -1,11 +1,11 @@
 <?php
 //isi username
-$username='xxxxxx';
+$username='kenjikazama7';
 
 
 //isi password
-$pass='xxxxxx';
+$pass='A123456789p';
 
 
 //isi model/type hh
-$model='xxxxxxx';
+$model='Xiaomi_M1804C3SE';
